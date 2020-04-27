@@ -2,7 +2,24 @@
 
 ----
 
-## 특강 세미나 일정 (2020)
+## 예습프로그램 (2020.05.01~05.17)
+
+
+
+| 멘토  | 예습명    |  예습자료 |
+|:--------:|:-----------------:|:-----------:|
+|차영수 |소프트로봇의 이해| 논문 [Soft mobile robot inspired by animal-like running motion, Scientific Reports](https://www.nature.com/articles/s41598-019-51308-4) <p> 논문 [Electrohydraulic actuator for a soft gripper, Soft Robotics](https://www.liebertpub.com/doi/full/10.1089/soro.2019.0009)
+|김천우 | 로봇 기구학 개론| 교재 [“Modern Robotics, Mechanics, Planning and Control” by Kevin Lynch and Frank Park](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) <p> [강의](http://hades.mech.northwestern.edu/index.php/Modern_Robotics_Videos)
+|박정민 | 3D User Interfaces  | 교재 "3D User Interfaces: Theory and Practice", 2nd Ed. by Joseph J. Laviola, JR., Ernst Kruijff, Ryan P. McMahan, Boug A. Bowman, Ivan Poupyrev 
+|김계리 | 솔리드 웍스를 통한 기계설계 실습 | [솔리드 웍스 기본개념 및 인터페이스 강의](https://www.youtube.com/watch?v=_1fznpK_Fc4&list=PLoAZL81kZCrFviUdLv4uzk8Ov54YDM64c)
+|이종원  | Wearable Robot 선행 기술 조사 | 논문 [Autonomous multi-joint soft exosuit with augmentation-power-based control parameter tuning reduces energy cost of loaded walking, Journal of NeuroEngineering and Rehabilitation](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-018-0410-y) <p> 논문 [Delayed Output Feedback Control for Gait Assistance With a Robotic Hip Exoskeleton, IEEE Transactions on Robotics](https://ieeexplore.ieee.org/document/8716724)
+|남창주  | 로봇 모션플래닝 실습 | [MoveIt! Tutorials](http://docs.ros.org/kinetic/api/moveit_tutorials/html/index.html)
+|김강건  | 딥러닝 기반 영상 분석 | [Convolutional Neural Networks for Visual Recognition 강의](https://youtu.be/vT1JzLTH4G4) <p> [한글자막](https://github.com/insurgent92/CS231N_17_KOR_SUB)
+|강민구  | 사용자 인터렉션이 가능한 차세대 3D 디스플레이 기술 개발 | 논문 [Three-dimensional display technologies, Advances in Optics and Photonics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4269274/) <p> 논문 [Fundamentals of 3D imaging and displays: a tutorial on integral imaging, light-field, and plenoptic systems, Advances in Optics and Photonics](https://www.osapublishing.org/aop/abstract.cfm?uri=aop-10-3-512) <p> [Hand 제스쳐 인식을 이용한 3D 객체 제어 강의](https://developer.leapmotion.com/)
+
+----
+
+## 특강 세미나 일정 (2020.05.19~06.02)
 
 
 
